@@ -5,4 +5,4 @@ Technologies used:
 - Git/Github
 - Docker
 - Github Actions CI/CD pipeline
-- Kubernetes & Helm
+- Kubernetes & Helm.
